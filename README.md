@@ -28,6 +28,7 @@ require('echarts-dagre');
 chart.setOption({
     ...
     series: [{
+        type: 'graph',
         // Change the layout to dagre, that's all you need to do.
         layout: 'dagre',
         nodes: [...],
