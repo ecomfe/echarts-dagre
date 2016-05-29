@@ -1,7 +1,7 @@
 {
   "name": "echarts-dagre",
   "version": "0.1.0",
-  "description": "Dagre graph layout extension for echarts",
+  "description": "ECharts graph layout extension integrated with dagre.js",
   "main": "index.js",
   "scripts": {
     "prepublish": "node build/amd2common.js"
@@ -14,6 +14,10 @@
     "graphlib": "1.0.x",
     "lodash": "3.10.x",
     "zrender": "3.1.x"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ecomfe/echarts-dagre.git"
   },
   "devDependencies": {
     "esprima": "^2.7.2",

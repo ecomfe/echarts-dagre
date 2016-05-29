@@ -1,11 +1,11 @@
-# ECharts graph layout extension using dagre.js
+# ECharts graph layout extension integrated with dagre.js
 
 
 ### Install
 
 ```html
-<script src="echarts.min.js">
-<script src="echarts-dagre.min.js">
+<script src="echarts.min.js"></script>
+<script src="echarts-dagre.min.js"></script>
 ```
 
 Or
