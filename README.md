@@ -1,4 +1,4 @@
-# ECharts graph layout extension integrated with dagre.js
+# graph layout extension integrated with dagre.js and [Apache ECharts (incubating)](https://github.com/apache/incubator-echarts)
 
 
 ### Install
